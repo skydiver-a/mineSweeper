@@ -1,1 +1,3 @@
-console.log('Boom')
+window.onload = function() {
+  
+}

@@ -21,7 +21,7 @@ var __webpack_exports__ = {};
 /*!**********************!*\
   !*** ./src/index.js ***!
   \**********************/
-console.log('Boom');
+window.onload = function () {};
 })();
 
 // This entry need to be wrapped in an IIFE because it need to be in strict mode.
